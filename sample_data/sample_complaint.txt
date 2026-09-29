@@ -1,0 +1,13 @@
+HOSPITAL PHARMACOVIGILANCE INCIDENT REPORT
+Facility: St. Jude Memorial Hospital Pharmacy
+Date: 2026-03-10
+
+Product Name: Epinephrine Injection
+Strength: 1 mg/mL, USP
+Batch / Lot Number: B24017
+Manufacturing Date: 2025-10-15
+Expiry Date: 2027-10-14
+Affected Quantity: 50 vials
+
+Defect Description:
+During morning stock unpackaging in the Emergency Department pharmacy, staff observed liquid leakage around the aluminum crimp seal and rubber stopper in 50 glass vials. Immediate quarantine of the affected tray was initiated.

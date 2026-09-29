@@ -1,0 +1,52 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 450 >>
+stream
+BT
+/F1 12 Tf
+50 720 Td
+(PHARMACEUTICAL COMPLAINT INTAKE DOSSIER) Tj
+0 -25 Td
+(Customer: Mercy Health System) Tj
+0 -20 Td
+(Product: Epinephrine Injection 1 mg/mL, USP) Tj
+0 -20 Td
+(Batch Number: B24017) Tj
+0 -20 Td
+(Manufacturing Date: 2025-10-15) Tj
+0 -20 Td
+(Expiry Date: 2027-10-14) Tj
+0 -20 Td
+(Quantity Affected: 50 vials) Tj
+0 -20 Td
+(Defect: Container Closure Leakage around rubber stopper) Tj
+0 -20 Td
+(Description: Leaking vials identified upon opening shipment carton.) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000227 00000 n 
+0000000302 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+805
+%%EOF
