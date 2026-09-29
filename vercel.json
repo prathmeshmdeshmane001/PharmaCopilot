@@ -2,10 +2,6 @@
   "version": 2,
   "builds": [
     {
-      "src": "api/index.py",
-      "use": "@vercel/python"
-    },
-    {
       "src": "frontend/package.json",
       "use": "@vercel/static-build",
       "config": {
@@ -16,15 +12,15 @@
   "routes": [
     {
       "src": "/api/(.*)",
-      "dest": "/api/index.py"
+      "dest": "https://pharmacopilot-backend-e59t.onrender.com/api/$1"
     },
     {
       "src": "/docs",
-      "dest": "/api/index.py"
+      "dest": "https://pharmacopilot-backend-e59t.onrender.com/docs"
     },
     {
       "src": "/openapi.json",
-      "dest": "/api/index.py"
+      "dest": "https://pharmacopilot-backend-e59t.onrender.com/openapi.json"
     },
     {
       "src": "/assets/(.*)",
